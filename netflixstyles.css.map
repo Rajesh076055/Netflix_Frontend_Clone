@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,WAAW,EAAE,UAAU;CAC1B;;AAED,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,IAAI;CACnB;;AAED,AAAA,WAAW,CAAC;EACR,SAAS,EAAE,MAAM;CAEpB;;AAED,AAAA,iBAAiB,CAAC;EACd,gBAAgB,EAAE,gMAAgM;CACrN;;AACD,AAAA,sBAAsB,CAAC;EACnB,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,MAAM;EAClB,eAAe,EAAE,KAAK;CAIzB",
+    "sources": [
+        "netflixstyles.scss"
+    ],
+    "names": [],
+    "file": "netflixstyles.css"
+}

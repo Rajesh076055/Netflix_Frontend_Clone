@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+html {
+    min-height: 100%;
+}
+
+.home__page {
+    max-width: 100rem;
+
+}
+
+.homepage__header {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/bcd713c9-291e-4186-a275-117b387eaaf2/045f6447-5160-4d42-8958-846660b1bba0/NP-en-20201019-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+}
+.body__movies__posters {
+    display: flex;
+    overflow-x: scroll;
+    scrollbar-color: black;
+   
+   
+   
+}
